@@ -37,7 +37,4 @@ Utilizamos Machine Learning para transformar dados brutos em decisões. O modelo
 
 
 
-Candidato: Júlia Germano 
-
- de resposta ligeiramente maior.
-
+Candidato: Júlia Germano
